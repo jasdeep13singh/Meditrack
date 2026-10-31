@@ -1,4 +1,6 @@
 ## About the project
+# MediTrack
+Smart Medicine & Prescription Tracker with Reminders
 Managing several medicines at the same time can be difficult, and people may forget a dose, wonder whether they have already taken it, or lose track of their prescription details. MediTrack is a web application that helps a user or caregiver keep their medicines organised in one place. Users can add medicine entries with dosage, schedule and dates, see a daily dashboard of upcoming doses, and mark each dose as taken, skipped or pending, while a dose history keeps a record of past entries. The app also sends configurable reminders, and users can upload a photo of a prescription, with optional OCR to read the text into a draft entry that the user must verify before saving. MediTrack is a record-keeping and reminder tool only; it does not diagnose conditions, recommend medicines or change dosage instructions.
 ## Tech stack and setup
 
