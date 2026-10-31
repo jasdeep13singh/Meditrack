@@ -26,5 +26,6 @@ The roles and responsibilities of the team members are as follows:
 - Jaskirat Singh (Roll No. 2435982): Responsible for the design and development of the Front-End component of the project.
 - Jasdeep Singh (Roll No. 2435976): Responsible for the development and implementation of the Back-End functionality.
 - Jasleen Kaur (Roll No. 2435983): Responsible for database management and the implementation of the Optical Character Recognition (OCR) module.
-Project Guidance and Acknowledgement
+
+## Project Guidance and Acknowledgement
 The entire project was completed under the valuable guidance and supervision of Prof. Sonia Sharma. Her continuous support, expert guidance, and constructive suggestions played an important role in the successful planning, development, and completion of this project. We sincerely acknowledge her contribution and encouragement throughout the project.
